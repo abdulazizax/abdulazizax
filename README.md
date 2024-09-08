@@ -23,15 +23,15 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="38" alt="html5 logo"  />
-  <img width="5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="38" alt="css3 logo"  />
-  <img width="5" />
   <img src="https://skillicons.dev/icons?i=golang" height="38" alt="golang logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=py" height="38" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="38" alt="python logo"  />
   <img width="5" />
-  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="pytohn logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="38" alt="c logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="38" alt="linux logo"  />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="38" alt="docker logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=postgres" height="38" alt="postgres logo"  />
   <img width="5" />
@@ -44,15 +44,9 @@
   <img src="https://skillicons.dev/icons?i=redis" height="38" alt="redis logo"  />
   <img width="5" />
   <img src="https://skillicons.dev/icons?i=rabbitmq" height="38" alt="rabbitmq logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="38" alt="kubernetes logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="38" alt="tensorflow logo"  />
-  <img width="5" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="pytorch logo"  />
-  <img width="5" />
 </div>
 <hr>
+
 
 <hr>
 
