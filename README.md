@@ -7,7 +7,8 @@
 ### About me
 
 <p align="justify">
-  <pre>I am a Golang backend developer passionate about building scalable and efficient systems. I enjoy solving complex challenges through clean code and practical solutions in the backend architecture.</pre>
+  <pre>         I am a Golang backend developer passionate about building scalable and efficient systems. 
+  I enjoy solving complex challenges through clean code and practical solutions in the backend architecture.</pre>
   <p align="center">
     <a href="https://www.linkedin.com/in/abdulazizax/" target="_blank" alt="Linkedin"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abdulazizax" /> </a>
     <a href="https://www.instagram.com/abdulazizax11/" alt="Instagram"> <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/doston_shernazarov_/"/> </a>
